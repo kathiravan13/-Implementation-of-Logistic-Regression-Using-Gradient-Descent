@@ -23,8 +23,8 @@ Define a function to plot the decision boundary and predict the Regression value
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: MURALI S
-RegisterNumber:212222230088
+Developed by: KATHIRAVAN P 
+RegisterNumber:212222230063
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
