@@ -1,7 +1,7 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
-To write a program to implement the the Logistic Regression Using Gradient Descent.
+To write a program to implement the the Logistic Regression Using Gradient Descent. 
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -23,8 +23,8 @@ Define a function to plot the decision boundary and predict the Regression value
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: R.Sanjana
-RegisterNumber:212223240148
+Developed by: MURALI S
+RegisterNumber:212222230088
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
